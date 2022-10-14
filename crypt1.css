@@ -626,7 +626,7 @@ Mobile Responsive CSS
         padding: 15px 0;
     }
     section.banner{
-        padding: 0px;
+        padding: 25px 20px;
     }
     .banner .flex{
         flex-direction: column-reverse;
@@ -641,6 +641,7 @@ Mobile Responsive CSS
 
     button.btn1{
         padding: 15px;
+        margin-top: 10px;
     }
     button.btn2{
         padding: 0;
